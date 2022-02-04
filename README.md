@@ -2,4 +2,5 @@
 <p> day 1 </p>
 <ul>
   <li> 88. Merge Sorted Array(easy)</li>
+  <li> 94. Binary Tree Inorder Traversal(easy)</li>
 </ul>
