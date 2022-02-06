@@ -8,5 +8,10 @@
 </ul>
 <p> Day 2 </p>
 <ul>
-  <li> 102. Binary Tree Level Order Traversal</li>
+  <li> 102. Binary Tree Level Order Traversal(medium)</li>
+</ul>
+<p> Day 3</p>
+<ul>
+  <li> 144. Binary Tree Preorder Traversal(iterative)(easy)</li>
+  <li> 94. Binary Tree Inorder Traversal(iterative)(easy)</li>
 </ul>
