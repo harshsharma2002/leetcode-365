@@ -15,3 +15,7 @@
   <li> 144. Binary Tree Preorder Traversal(iterative)(easy)</li>
   <li> 94. Binary Tree Inorder Traversal(iterative)(easy)</li>
 </ul>
+<p> Day 4 </p>
+<ul>
+  <li> 9. Palindrome Number </li>
+</ul>
