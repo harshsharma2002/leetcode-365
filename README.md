@@ -19,3 +19,7 @@
 <ul>
   <li> 9. Palindrome Number </li>
 </ul>
+<p> Day 5 </p>
+<ul>
+  <li> 27. Remove Element </li>
+</ul>
