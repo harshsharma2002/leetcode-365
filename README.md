@@ -17,9 +17,9 @@
 </ul>
 <p> Day 4 </p>
 <ul>
-  <li> 9. Palindrome Number </li>
+  <li> 9. Palindrome Number(easy) </li>
 </ul>
 <p> Day 5 </p>
 <ul>
-  <li> 27. Remove Element </li>
+  <li> 27. Remove Element(easy) </li>
 </ul>
