@@ -23,3 +23,7 @@
 <ul>
   <li> 27. Remove Element(easy) </li>
 </ul>
+<p> Day 6 </p>
+<ul>
+  <li> 104. Maximum Depth of Binary Tree(easy) </li>
+</ul>
