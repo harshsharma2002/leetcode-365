@@ -35,3 +35,7 @@
 <ul>
   <li> 100. Same Tree(easy) </li>
 </ul>
+<p> Day 9 </p>
+<ul>
+  <li> 543. Diameter of Binary Tree(easy) </li>
+</ul>
