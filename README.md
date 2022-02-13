@@ -39,3 +39,8 @@
 <ul>
   <li> 543. Diameter of Binary Tree(easy) </li>
 </ul>
+<p> Day 10 </p>
+<ul>
+  <li> 103. Binary Tree Zigzag Level Order Traversal(medium) </li>
+</ul>
+
