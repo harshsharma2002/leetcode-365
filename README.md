@@ -1,4 +1,4 @@
-<h1> Leetcode 365 </h1>
+<h2> Leetcode 365 </h2>
 <p> Day 1 </p>
 <ul>
   <li> 88. Merge Sorted Array(easy)</li>
