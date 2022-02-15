@@ -47,4 +47,8 @@
 <ul>
   <li> 662. Maximum Width of Binary Tree(medium) </li>
 </ul>
+<p> Day 12 </p>
+<ul>
+  <li> 1491. Average Salary Excluding the Minimum and Maximum Salary(easy) </li>
+</ul>
 
