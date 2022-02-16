@@ -51,4 +51,7 @@
 <ul>
   <li> 1491. Average Salary Excluding the Minimum and Maximum Salary(easy) </li>
 </ul>
-
+<p> Day 13 </p>
+<ul>
+  <li> 575. Distribute Candies(easy) </li>
+</ul>
