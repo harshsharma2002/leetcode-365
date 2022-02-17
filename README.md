@@ -55,3 +55,7 @@
 <ul>
   <li> 575. Distribute Candies(easy) </li>
 </ul>
+<p> Day 14 </p>
+<ul>
+  <li> 1920. Build Array from Permutation(easy) </li>
+</ul>
