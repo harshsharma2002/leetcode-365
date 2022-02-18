@@ -59,3 +59,7 @@
 <ul>
   <li> 1920. Build Array from Permutation(easy) </li>
 </ul>
+<p> Day 15 </p>
+<ul>
+  <li> 1929. Concatenation of Array(easy) </li>
+</ul>
