@@ -63,3 +63,7 @@
 <ul>
   <li> 1929. Concatenation of Array(easy) </li>
 </ul>
+<p> Day 16 </p>
+<ul>
+  <li> 1848. Minimum Distance to the Target Element(easy) </li>
+</ul>
