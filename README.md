@@ -71,4 +71,7 @@
 <ul>
   <li> 1588. Sum of All Odd Length Subarrays(easy) </li>
 </ul>
-
+<p> Day 18 </p>
+<ul>
+  <li> 349. Intersection of Two Arrays(easy) </li>
+</ul>
