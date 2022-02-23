@@ -1,4 +1,4 @@
-<h2> Leetcode 365 </h2>
+<h1> Leetcode 365 </h1>
 <p> Day 1 </p>
 <ul>
   <li> 88. Merge Sorted Array(easy)</li>
@@ -78,4 +78,8 @@
 <p> Day 19 </p>
 <ul>
   <li> 917. Reverse Only Letters(easy) </li>
+</ul>
+<p> Day 20 </p>
+<ul>
+  <li> 1317. Convert Integer to the Sum of Two No-Zero Integers(easy) </li>
 </ul>
