@@ -91,3 +91,7 @@
 <ul>
   <li> 657. Robot Return to Origin(easy) </li>
 </ul>
+<p> Day 23 </p>
+<ul>
+  <li> 1688. Count of Matches in Tournament(easy) </li>
+</ul>
