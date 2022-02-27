@@ -95,3 +95,7 @@
 <ul>
   <li> 1688. Count of Matches in Tournament(easy) </li>
 </ul>
+<p> Day 24 </p>
+<ul>
+  <li> 492. Construct the Rectangle(easy) </li>
+</ul>
