@@ -99,3 +99,7 @@
 <ul>
   <li> 492. Construct the Rectangle(easy) </li>
 </ul>
+<p> Day 25 </p>
+<ul>
+  <li> 1523. Count Odd Numbers in an Interval Range(easy) </li>
+</ul>
