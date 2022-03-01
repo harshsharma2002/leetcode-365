@@ -103,3 +103,8 @@
 <ul>
   <li> 1523. Count Odd Numbers in an Interval Range(easy) </li>
 </ul>
+<p> Day 25 </p>
+<ul>
+  <li> 191. Number of 1 Bits(easy) </li>
+  <li> 1281. Subtract the Product and Sum of Digits of an Integer(easy) </li>
+</ul>
