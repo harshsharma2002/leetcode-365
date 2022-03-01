@@ -107,4 +107,5 @@
 <ul>
   <li> 191. Number of 1 Bits(easy) </li>
   <li> 1281. Subtract the Product and Sum of Digits of an Integer(easy) </li>
+  <li> 338. Counting Bits(easy) </li>
 </ul>
