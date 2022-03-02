@@ -109,3 +109,9 @@
   <li> 1281. Subtract the Product and Sum of Digits of an Integer(easy) </li>
   <li> 338. Counting Bits(easy) </li>
 </ul>
+<p> Day 25 </p>
+<ul>
+  <li> 1779. Find Nearest Point That Has the Same X or Y Coordinate(easy) </li>
+  <li> 976. Largest Perimeter Triangle(easy) </li>
+  <li> 392. Is Subsequence(easy) </li>
+</ul>
