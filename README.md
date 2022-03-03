@@ -1,5 +1,5 @@
 <h1> Leetcode 365 </h1>
-<p> Day 1 </p>
+<h3> Day 1 </h3>
 <ul>
   <li> 88. Merge Sorted Array(easy)</li>
   <li> 94. Binary Tree Inorder Traversal(easy)</li>
@@ -114,4 +114,10 @@
   <li> 1779. Find Nearest Point That Has the Same X or Y Coordinate(easy) </li>
   <li> 976. Largest Perimeter Triangle(easy) </li>
   <li> 392. Is Subsequence(easy) </li>
+</ul>
+<h3> Day 27 </h3>
+<ul>
+  <li> 1502. Can Make Arithmetic Progression From Sequence(easy) </li>
+  <li> 202. Happy Number(easy) </li>
+  <li> 1790. Check if One String Swap Can Make Strings Equal(easy) </li>
 </ul>
