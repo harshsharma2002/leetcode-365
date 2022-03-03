@@ -1,5 +1,5 @@
 <h1> Leetcode 365 </h1>
-<h3> Day 1 </h3>
+<h2> Day 1 </h2>
 <ul>
   <li> 88. Merge Sorted Array(easy)</li>
   <li> 94. Binary Tree Inorder Traversal(easy)</li>
