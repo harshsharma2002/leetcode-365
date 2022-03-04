@@ -122,3 +122,9 @@
   <li> 202. Happy Number(easy) </li>
   <li> 1790. Check if One String Swap Can Make Strings Equal(easy) </li>
 </ul>
+<h3> Day 28 </h3>
+<ul>
+  <li> 589. N-ary Tree Preorder Traversal(easy) </li>
+  <li> 496. Next Greater Element I(easy) </li>
+  <li> 1232. Check If It Is a Straight Line(easy) </li>
+</ul>
