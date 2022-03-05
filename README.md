@@ -128,3 +128,8 @@
   <li> 496. Next Greater Element I(easy) </li>
   <li> 1232. Check If It Is a Straight Line(easy) </li>
 </ul>
+<h3> Day 29 </h3>
+<ul>
+  <li> 283. Move Zeroes(easy) </li>
+  <li> 1672. Richest Customer Wealth(easy) </li>
+</ul>
