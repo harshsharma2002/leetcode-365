@@ -133,3 +133,8 @@
   <li> 283. Move Zeroes(easy) </li>
   <li> 1672. Richest Customer Wealth(easy) </li>
 </ul>
+<h3> Day 30 </h3>
+<ul>
+  <li> 1572. Matrix Diagonal Sum(easy) </li>
+  <li> 566. Reshape the Matrixh(easy) </li>
+</ul>
