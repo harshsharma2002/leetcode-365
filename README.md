@@ -138,3 +138,11 @@
   <li> 1572. Matrix Diagonal Sum(easy) </li>
   <li> 566. Reshape the Matrixh(easy) </li>
 </ul>
+<h3> Day 31 </h3>
+<ul>
+  <li> 1768. Merge Strings Alternately(easy) </li>
+  <li> 1678. Goal Parser Interpretation(easy) </li>
+  <li> 389. Find the Difference(easy) </li>
+</ul>
+<h3> Total:- </h3>
+  <p> 48 </p>
