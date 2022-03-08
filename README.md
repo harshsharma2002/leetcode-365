@@ -144,5 +144,10 @@
   <li> 1678. Goal Parser Interpretation(easy) </li>
   <li> 389. Find the Difference(easy) </li>
 </ul>
+<h3> Day 31 </h3>
+<ul>
+  <li> 1309. Decrypt String from Alphabet to Integer Mapping(easy) </li>
+  <li> 709. To Lower Case(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 48 </p>
+  <p> 50 </p>
