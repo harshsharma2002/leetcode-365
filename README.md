@@ -149,5 +149,10 @@
   <li> 1309. Decrypt String from Alphabet to Integer Mapping(easy) </li>
   <li> 709. To Lower Case(easy) </li>
 </ul>
+<h3> Day 32 </h3>
+<ul>
+  <li> 1290. Convert Binary Number in a Linked List to Integer(easy) </li>
+  <li> 876. Middle of the Linked List(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 50 </p>
+  <p> 52 </p>
