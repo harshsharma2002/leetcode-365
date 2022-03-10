@@ -154,5 +154,10 @@
   <li> 1290. Convert Binary Number in a Linked List to Integer(easy) </li>
   <li> 876. Middle of the Linked List(easy) </li>
 </ul>
+<h3> Day 33 </h3>
+<ul>
+  <li> 1356. Sort Integers by The Number of 1 Bits(easy) </li>
+  <li> 242. Valid Anagram(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 52 </p>
+  <p> 54 </p>
