@@ -159,5 +159,10 @@
   <li> 1356. Sort Integers by The Number of 1 Bits(easy) </li>
   <li> 242. Valid Anagram(easy) </li>
 </ul>
+<h3> Day 34 </h3>
+<ul>
+  <li> 1603. Design Parking System(easy) </li>
+  <li> 303. Range Sum Query - Immutable(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 54 </p>
+  <p> 56 </p>
