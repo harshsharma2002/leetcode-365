@@ -164,5 +164,9 @@
   <li> 1603. Design Parking System(easy) </li>
   <li> 303. Range Sum Query - Immutable(easy) </li>
 </ul>
+<h3> Day 35 </h3>
+<ul>
+  <li> 344. Reverse String(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 56 </p>
+  <p> 57 </p>
