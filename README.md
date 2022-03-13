@@ -168,5 +168,9 @@
 <ul>
   <li> 344. Reverse String(easy) </li>
 </ul>
+<h3> Day 36 </h3>
+<ul>
+  <li> 20. Valid Parentheses(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 57 </p>
+  <p> 58 </p>
