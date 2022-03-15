@@ -176,5 +176,9 @@
 <ul>
   <li> 557. Reverse Words in a String III(easy) </li>
 </ul>
+<h3> Day 38 </h3>
+<ul>
+  <li> 1331. Rank Transform of an Array(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 59 </p>
+  <p> 60 </p>
