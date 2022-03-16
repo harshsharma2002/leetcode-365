@@ -180,5 +180,9 @@
 <ul>
   <li> 1331. Rank Transform of an Array(easy) </li>
 </ul>
+<h3> Day 39 </h3>
+<ul>
+  <li> 367. Valid Perfect Square(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 60 </p>
+  <p> 61 </p>
