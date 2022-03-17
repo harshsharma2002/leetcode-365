@@ -184,5 +184,9 @@
 <ul>
   <li> 367. Valid Perfect Square(easy) </li>
 </ul>
+<h3> Day 40 </h3>
+<ul>
+  <li> 1732. Find the Highest Altitude(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 61 </p>
+  <p> 62 </p>
