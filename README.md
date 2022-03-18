@@ -188,5 +188,9 @@
 <ul>
   <li> 1732. Find the Highest Altitude(easy) </li>
 </ul>
+<h3> Day 41 </h3>
+<ul>
+  <li> 136. Single Number(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 62 </p>
+  <p> 63 </p>
