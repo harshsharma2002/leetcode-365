@@ -192,5 +192,9 @@
 <ul>
   <li> 136. Single Number(easy) </li>
 </ul>
+<h3> Day 42 </h3>
+<ul>
+  <li> 1365. How Many Numbers Are Smaller Than the Current Number(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 63 </p>
+  <p> 64 </p>
