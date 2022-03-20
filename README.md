@@ -196,5 +196,9 @@
 <ul>
   <li> 1365. How Many Numbers Are Smaller Than the Current Number(easy) </li>
 </ul>
+<h3> Day 43 </h3>
+<ul>
+  <li> 590. N-ary Tree Postorder Traversal(easy) </li>
+</ul>
 <h3> Total:- </h3>
-  <p> 64 </p>
+  <p> 65 </p>
