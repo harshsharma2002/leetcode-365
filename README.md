@@ -200,5 +200,7 @@
 <ul>
   <li> 590. N-ary Tree Postorder Traversal(easy) </li>
 </ul>
-<h3> Total:- </h3>
-  <p> 65 </p>
+<h3> Day 44 </h3>
+<ul>
+  <li> 2011. Final Value of Variable After Performing Operations(easy) </li>
+</ul>
