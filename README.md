@@ -204,3 +204,7 @@
 <ul>
   <li> 2011. Final Value of Variable After Performing Operations(easy) </li>
 </ul>
+<h3> Day 45 </h3>
+<ul>
+  <li> 1773. Count Items Matching a Rule(easy) </li>
+</ul>
