@@ -208,3 +208,7 @@
 <ul>
   <li> 1773. Count Items Matching a Rule(easy) </li>
 </ul>
+<h3> Day 46 </h3>
+<ul>
+  <li> 1952. Three Divisors(easy) </li>
+</ul>
