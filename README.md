@@ -212,3 +212,7 @@
 <ul>
   <li> 1952. Three Divisors(easy) </li>
 </ul>
+<h3> Day 47 </h3>
+<ul>
+  <li> 682. Baseball Game(easy) </li>
+</ul>
