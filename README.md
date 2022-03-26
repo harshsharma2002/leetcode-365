@@ -220,3 +220,7 @@
 <ul>
   <li> 28. Implement strStr()(easy) </li>
 </ul>
+<h3> Day 49 </h3>
+<ul>
+  <li> 1475. Final Prices With a Special Discount in a Shop(easy) </li>
+</ul>
