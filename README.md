@@ -224,3 +224,7 @@
 <ul>
   <li> 1475. Final Prices With a Special Discount in a Shop(easy) </li>
 </ul>
+<h3> Day 50 </h3>
+<ul>
+  <li> 1624. Largest Substring Between Two Equal Characters(easy) </li>
+</ul>
