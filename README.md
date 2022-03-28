@@ -228,3 +228,7 @@
 <ul>
   <li> 1624. Largest Substring Between Two Equal Characters(easy) </li>
 </ul>
+<h3> Day 51 </h3>
+<ul>
+  <li> 2094. Finding 3-Digit Even Numbers(easy) </li>
+</ul>
