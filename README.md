@@ -232,3 +232,7 @@
 <ul>
   <li> 2094. Finding 3-Digit Even Numbers(easy) </li>
 </ul>
+<h3> Day 52 </h3>
+<ul>
+  <li> 872. Leaf-Similar Trees(easy) </li>
+</ul>
