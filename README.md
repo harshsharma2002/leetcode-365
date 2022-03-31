@@ -240,3 +240,7 @@
 <ul>
   <li> 459. Repeated Substring Pattern(easy) </li>
 </ul>
+<h3> Day 54 </h3>
+<ul>
+  <li> 1704. Determine if String Halves Are Alike(easy) </li>
+</ul>
