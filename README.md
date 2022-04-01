@@ -244,3 +244,7 @@
 <ul>
   <li> 1704. Determine if String Halves Are Alike(easy) </li>
 </ul>
+<h3> Day 55 </h3>
+<ul>
+  <li> 2057. Smallest Index With Equal Value(easy) </li>
+</ul>
