@@ -248,3 +248,7 @@
 <ul>
   <li> 2057. Smallest Index With Equal Value(easy) </li>
 </ul>
+<h3> Day 56 </h3>
+<ul>
+  <li> 821. Shortest Distance to a Character(easy) </li>
+</ul>
