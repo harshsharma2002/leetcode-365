@@ -252,3 +252,8 @@
 <ul>
   <li> 821. Shortest Distance to a Character(easy) </li>
 </ul>
+<h3> Day 57 </h3>
+<ul>
+  <li> 1945. Sum of Digits of String After Convert(easy) </li>
+</ul>
+
