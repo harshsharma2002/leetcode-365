@@ -256,4 +256,7 @@
 <ul>
   <li> 1945. Sum of Digits of String After Convert(easy) </li>
 </ul>
-
+<h3> Day 58 </h3>
+<ul>
+  <li> 2016. Maximum Difference Between Increasing Elements(easy) </li>
+</ul>
