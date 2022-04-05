@@ -260,3 +260,7 @@
 <ul>
   <li> 2016. Maximum Difference Between Increasing Elements(easy) </li>
 </ul>
+<h3> Day 59 </h3>
+<ul>
+  <li> 101. Symmetric Tree(easy) </li>
+</ul>
