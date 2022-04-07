@@ -268,3 +268,7 @@
 <ul>
   <li> 121. Best Time to Buy and Sell Stock(easy) </li>
 </ul>
+<h3> Day 61 </h3>
+<ul>
+  <li> 1046. Last Stone Weight(easy) </li>
+</ul>
