@@ -280,3 +280,7 @@
 <ul>
   <li> 83. Remove Duplicates from Sorted List(easy) </li>
 </ul>
+<h3> Day 64 </h3>
+<ul>
+  <li> 1185. Day of the Week(easy) </li>
+</ul>
