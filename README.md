@@ -284,3 +284,7 @@
 <ul>
   <li> 1185. Day of the Week(easy) </li>
 </ul>
+<h3> Day 65 </h3>
+<ul>
+  <li> 1608. Special Array With X Elements Greater Than or Equal X(easy) </li>
+</ul>
