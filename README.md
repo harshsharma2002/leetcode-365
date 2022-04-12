@@ -288,3 +288,7 @@
 <ul>
   <li> 1608. Special Array With X Elements Greater Than or Equal X(easy) </li>
 </ul>
+<h3> Day 66 </h3>
+<ul>
+  <li> 4. Median of Two Sorted Arrays(hard) </li>
+</ul>
