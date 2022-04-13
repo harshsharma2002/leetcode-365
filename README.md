@@ -292,3 +292,7 @@
 <ul>
   <li> 4. Median of Two Sorted Arrays(hard) </li>
 </ul>
+<h3> Day 67 </h3>
+<ul>
+  <li> 717. 1-bit and 2-bit Characters(easy) </li>
+</ul>
