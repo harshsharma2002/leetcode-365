@@ -296,3 +296,7 @@
 <ul>
   <li> 717. 1-bit and 2-bit Characters(easy) </li>
 </ul>
+<h3> Day 68 </h3>
+<ul>
+  <li> 700. Search in a Binary Search Tree(easy) </li>
+</ul>
