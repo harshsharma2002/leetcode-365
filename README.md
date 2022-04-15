@@ -300,3 +300,7 @@
 <ul>
   <li> 700. Search in a Binary Search Tree(easy) </li>
 </ul>
+<h3> Day 71 </h3>
+<ul>
+  <li> 461. Hamming Distance(easy) </li>
+</ul>
