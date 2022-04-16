@@ -304,3 +304,7 @@
 <ul>
   <li> 461. Hamming Distance(easy) </li>
 </ul>
+<h3> Day 72 </h3>
+<ul>
+  <li> 485. Max Consecutive Ones(easy) </li>
+</ul>
