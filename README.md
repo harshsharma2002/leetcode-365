@@ -308,3 +308,7 @@
 <ul>
   <li> 485. Max Consecutive Ones(easy) </li>
 </ul>
+<h3> Day 73 </h3>
+<ul>
+  <li> 832. Flipping an Image(easy) </li>
+</ul>
