@@ -312,3 +312,7 @@
 <ul>
   <li> 832. Flipping an Image(easy) </li>
 </ul>
+<h3> Day 74 </h3>
+<ul>
+  <li> 387. First Unique Character in a String(easy) </li>
+</ul>
