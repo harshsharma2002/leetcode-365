@@ -316,3 +316,7 @@
 <ul>
   <li> 387. First Unique Character in a String(easy) </li>
 </ul>
+<h3> Day 75 </h3>
+<ul>
+  <li> 2154. Keep Multiplying Found Values by Two(easy) </li>
+</ul>
