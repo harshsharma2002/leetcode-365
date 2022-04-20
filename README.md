@@ -320,3 +320,7 @@
 <ul>
   <li> 2154. Keep Multiplying Found Values by Two(easy) </li>
 </ul>
+<h3> Day 76 </h3>
+<ul>
+  <li> 2224. Minimum Number of Operations to Convert Time(easy) </li>
+</ul>
