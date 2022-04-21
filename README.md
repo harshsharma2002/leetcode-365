@@ -324,3 +324,7 @@
 <ul>
   <li> 2224. Minimum Number of Operations to Convert Time(easy) </li>
 </ul>
+<h3> Day 77 </h3>
+<ul>
+  <li> 1446. Consecutive Characters(easy) </li>
+</ul>
