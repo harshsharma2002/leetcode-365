@@ -328,3 +328,7 @@
 <ul>
   <li> 1446. Consecutive Characters(easy) </li>
 </ul>
+<h3> Day 78 </h3>
+<ul>
+  <li> 997. Find the Town Judge(easy) </li>
+</ul>
