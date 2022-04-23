@@ -332,3 +332,7 @@
 <ul>
   <li> 997. Find the Town Judge(easy) </li>
 </ul>
+<h3> Day 79 </h3>
+<ul>
+  <li> 896. Monotonic Array(easy) </li>
+</ul>
