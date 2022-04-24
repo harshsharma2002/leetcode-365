@@ -336,3 +336,7 @@
 <ul>
   <li> 896. Monotonic Array(easy) </li>
 </ul>
+<h3> Day 80 </h3>
+<ul>
+  <li> 1646. Get Maximum in Generated Array(easy) </li>
+</ul>
