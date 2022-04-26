@@ -344,3 +344,7 @@
 <ul>
   <li> 206. Reverse Linked List(easy) </li>
 </ul>
+<h3> Day 82 </h3>
+<ul>
+  <li> 1323. Maximum 69 Number(easy) </li>
+</ul>
