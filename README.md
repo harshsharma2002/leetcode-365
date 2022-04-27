@@ -348,3 +348,7 @@
 <ul>
   <li> 1323. Maximum 69 Number(easy) </li>
 </ul>
+<h3> Day 83 </h3>
+<ul>
+  <li> 98. Validate Binary Search Tree(medium) </li>
+</ul>
