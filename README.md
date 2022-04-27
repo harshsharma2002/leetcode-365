@@ -351,4 +351,5 @@
 <h3> Day 83 </h3>
 <ul>
   <li> 98. Validate Binary Search Tree(medium) </li>
+  <li> 230. Kth Smallest Element in a BST(medium) </li>
 </ul>
