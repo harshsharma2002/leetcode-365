@@ -353,3 +353,7 @@
   <li> 98. Validate Binary Search Tree(medium) </li>
   <li> 230. Kth Smallest Element in a BST(medium) </li>
 </ul>
+<h3> Day 84 </h3>
+<ul>
+  <li> 1295. Find Numbers with Even Number of Digits(easy) </li>
+</ul>
