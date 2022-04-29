@@ -357,3 +357,7 @@
 <ul>
   <li> 1295. Find Numbers with Even Number of Digits(easy) </li>
 </ul>
+<h3> Day 84 </h3>
+<ul>
+  <li> 2089. Find Target Indices After Sorting Array(easy) </li>
+</ul>
