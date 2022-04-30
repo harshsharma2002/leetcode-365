@@ -361,3 +361,7 @@
 <ul>
   <li> 2089. Find Target Indices After Sorting Array(easy) </li>
 </ul>
+<h3> Day 86 </h3>
+<ul>
+  <li> 405. Convert a Number to Hexadecimal(easy) </li>
+</ul>
