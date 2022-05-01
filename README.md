@@ -365,3 +365,7 @@
 <ul>
   <li> 405. Convert a Number to Hexadecimal(easy) </li>
 </ul>
+<h3> Day 87 </h3>
+<ul>
+  <li> 844. Backspace String Compare(easy) </li>
+</ul>
