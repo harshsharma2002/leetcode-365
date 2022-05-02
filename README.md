@@ -369,3 +369,7 @@
 <ul>
   <li> 844. Backspace String Compare(easy) </li>
 </ul>
+<h3> Day 88 </h3>
+<ul>
+  <li> 905. Sort Array By Parity(easy) </li>
+</ul>
