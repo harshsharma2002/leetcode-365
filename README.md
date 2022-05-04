@@ -377,3 +377,7 @@
 <ul>
   <li> 1013. Partition Array Into Three Parts With Equal Sum(easy) </li>
 </ul>
+<h3> Day 89 </h3>
+<ul>
+  <li> 2032. Two Out of Three(easy) </li>
+</ul>
