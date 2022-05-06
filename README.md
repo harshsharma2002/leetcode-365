@@ -385,3 +385,7 @@
 <ul>
   <li> 674. Longest Continuous Increasing Subsequence(easy) </li>
 </ul>
+<h3> Day 92 </h3>
+<ul>
+  <li> 520. Detect Capital(easy) </li>
+</ul>
