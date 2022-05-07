@@ -389,3 +389,7 @@
 <ul>
   <li> 520. Detect Capital(easy) </li>
 </ul>
+<h3> Day 93 </h3>
+<ul>
+  <li> 859. Buddy Strings(easy) </li>
+</ul>
