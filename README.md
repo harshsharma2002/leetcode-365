@@ -401,3 +401,7 @@
 <ul>
   <li> 13. Roman to Integer(easy) </li>
 </ul>
+<h3> Day 96 </h3>
+<ul>
+  <li> 1991. Find the Middle Index in Array(easy) </li>
+</ul>
