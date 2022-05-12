@@ -409,3 +409,7 @@
 <ul>
   <li> 415. Add Strings(easy) </li>
 </ul>
+<h3> Day 98 </h3>
+<ul>
+  <li> 1394. Find Lucky Integer in an Array(easy) </li>
+</ul>
