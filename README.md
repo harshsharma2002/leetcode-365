@@ -413,3 +413,7 @@
 <ul>
   <li> 1394. Find Lucky Integer in an Array(easy) </li>
 </ul>
+<h3> Day 99 </h3>
+<ul>
+  <li> 1103. Distribute Candies to People(easy) </li>
+</ul>
