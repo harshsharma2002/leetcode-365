@@ -421,3 +421,7 @@
 <ul>
   <li> 500. Keyboard Row(easy) </li>
 </ul>
+<h3> Day 101 </h3>
+<ul>
+  <li> 1385. Find the Distance Value Between Two Arrays(easy) </li>
+</ul>
