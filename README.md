@@ -425,3 +425,7 @@
 <ul>
   <li> 1385. Find the Distance Value Between Two Arrays(easy) </li>
 </ul>
+<h3> Day 102 </h3>
+<ul>
+  <li> 1957. Delete Characters to Make Fancy String(easy) </li>
+</ul>
