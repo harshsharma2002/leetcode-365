@@ -429,3 +429,7 @@
 <ul>
   <li> 1957. Delete Characters to Make Fancy String(easy) </li>
 </ul>
+<h3> Day 103 </h3>
+<ul>
+  <li> 1935. Maximum Number of Words You Can Type(easy) </li>
+</ul>
