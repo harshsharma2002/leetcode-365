@@ -433,3 +433,7 @@
 <ul>
   <li> 1935. Maximum Number of Words You Can Type(easy) </li>
 </ul>
+<h3> Day 104 </h3>
+<ul>
+  <li> 501. Find Mode in Binary Search Tree(easy) </li>
+</ul>
