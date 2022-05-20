@@ -441,3 +441,7 @@
 <ul>
   <li> 441. Arranging Coins(easy) </li>
 </ul>
+<h3> Day 106 </h3>
+<ul>
+  <li> 888. Fair Candy Swap(easy) </li>
+</ul>
