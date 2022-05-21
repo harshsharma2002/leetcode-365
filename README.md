@@ -445,3 +445,7 @@
 <ul>
   <li> 888. Fair Candy Swap(easy) </li>
 </ul>
+<h3> Day 107 </h3>
+<ul>
+  <li> 1784. Check if Binary String Has at Most One Segment of Ones(easy) </li>
+</ul>
