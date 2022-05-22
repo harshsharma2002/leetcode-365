@@ -449,3 +449,7 @@
 <ul>
   <li> 1784. Check if Binary String Has at Most One Segment of Ones(easy) </li>
 </ul>
+<h3> Day 108 </h3>
+<ul>
+  <li> 263. Ugly Number(easy) </li>
+</ul>
